@@ -22,7 +22,6 @@ body {
 hr {
     width: 85%;
     border: 1px solid rgba(153, 178, 209, 0.2);
-    margin: 15px 0px 0px 0px;
 }
 a {
     text-decoration:none;
@@ -92,7 +91,7 @@ p{
     font-weight: 400;
 }
 .left, .right p{
-    margin: 0px;  
+    margin: 5px;  
 }
 .autor{
     justify-content: left;
